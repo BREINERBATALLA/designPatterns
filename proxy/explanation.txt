@@ -1,0 +1,4 @@
+Encapsular la complejidad del objeto objetivo(real) mediante un intermediario(proxy)
+El cliente interactua con el intermediario
+Controlar el acceso al objeto real(Añadir seguridad por ej)
+
