@@ -1,0 +1,3 @@
+Basically, Service is a facade which reduce the complexity of two modules client and product repository
+Service offer a simple way to access to these modules.
+we can simplify any librarie or package to the final user, using this pattern.
